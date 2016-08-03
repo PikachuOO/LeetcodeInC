@@ -82,6 +82,7 @@
     <ClInclude Include="fifo.h" />
     <ClInclude Include="hash.h" />
     <ClInclude Include="heapsort.h" />
+    <ClInclude Include="stack.h" />
     <ClInclude Include="tree.h" />
   </ItemGroup>
   <ItemGroup>
@@ -141,6 +142,7 @@
     <ClCompile Include="fifo.c" />
     <ClCompile Include="hash.c" />
     <ClCompile Include="heapsort.c" />
+    <ClCompile Include="main.c" />
     <ClCompile Include="stack.c" />
     <ClCompile Include="tree.c" />
   </ItemGroup>
